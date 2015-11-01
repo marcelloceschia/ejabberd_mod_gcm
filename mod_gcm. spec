@@ -1,0 +1,5 @@
+author: "John Smith <mrdoctorwho@gmail.com>"
+category: "service"
+summary: "Google Cloud Messaging (XEP-xxxx)"
+home: "https://github.com/mrDoctorWho/ejabberd_mod_gcm"
+url: "https://github.com/mrDoctorWho/ejabberd_mod_gcm.git"
